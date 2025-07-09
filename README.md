@@ -1,5 +1,6 @@
-# Data-Analysis-Dashboard
-An interactive Power BI dashboard designed to analyze product performance, sales trends, profit margins, discount behavior, and customer buying patterns across multiple dimensions. The dashboard enables users to uncover key business insights through dynamic visualizations and drill-down capabilities, supporting data-driven decision-making.
+# 📊 Power BI Sales Dashboard
+An interactive **Business Intelligence dashboard** built using **Power BI** and **DAX**, designed to analyze product performance, sales trends, profit margins, discount behavior, and customer buying patterns across multiple dimensions. The project includes **data modeling, transformation, and visualization** techniques to uncover actionable insights and support data-driven decision-making.
+
 
 ## Dataset used
 -<a href="https://github.com/akhilm-ds/Data-Analysis-Dashboard/blob/main/Store%2BData.xlsx">Dataset<a/>
