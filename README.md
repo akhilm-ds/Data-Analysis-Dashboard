@@ -11,3 +11,19 @@ An interactive Power BI dashboard designed to analyze product performance, sales
 - 🌍 **Sales Analysis by City**  
 - 🎯 Fully interactive with filters for **Product, Date, Customer ID, and Promotion Category**
 
+## 📌 Key Insights
+
+- **Top-selling products** consistently align with the most profitable ones, indicating high-margin items.  
+- **Seasonal and monthly fluctuations** reveal strong sales periods (e.g., quarterly peaks).  
+- **Discounts impact profitability** differently across categories.  
+- **Sales are geographically concentrated** in specific cities, highlighting regional opportunities.  
+- **Custom date comparisons** help track business growth or identify declining trends.  
+- **Customers in certain segments** respond better to promotions and discounts.
+
+## 💡 Benefits
+
+- **Informed Decision Making**: Provides actionable insights for sales, marketing, and operations teams.  
+- **Trend Recognition**: Detect patterns in sales and profit across different time frames.  
+- **Performance Tracking**: Evaluate product and order performance to identify improvement areas.  
+- **Targeted Marketing**: Focus on high-performing cities and customer segments.  
+- **User-Friendly**: Designed with interactive visuals and slicers for dynamic exploration.
