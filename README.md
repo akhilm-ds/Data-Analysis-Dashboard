@@ -16,7 +16,6 @@ An interactive **Business Intelligence dashboard** built using **Power BI** and 
 - 🏷️ **Average Discount** offered by Discount Category  
 - 📦 Overview of **Total Orders, Average Orders**, and **Product Category Breakdown**  
 - 🌍 **Sales Analysis by City**  
-- 🎯 Fully interactive with filters for **Product, Date, Customer ID, and Promotion Category**
 
 ## 📌 Key Insights
 
