@@ -27,6 +27,11 @@ An interactive **Business Intelligence dashboard** built using **Power BI** and 
 - **Custom date comparisons** help track business growth or identify declining trends.  
 - **Customers in certain segments** respond better to promotions and discounts.
 
+## Dashboard
+<img width="611" alt="Sales_Dashboard_1" src="https://github.com/user-attachments/assets/4ef7a915-7537-4c8b-aa3e-1db596fd178a" />
+<img width="609" alt="Sales_Dashboard_2" src="https://github.com/user-attachments/assets/fd054097-72ab-4a76-acc5-85b750e63a89" />
+<img width="578" alt="Sales_Dashboard_3" src="https://github.com/user-attachments/assets/92f6edbc-4331-4279-b213-2bfdd4b357d1" />
+
 ## 💡 Benefits
 
 - **Informed Decision Making**: Provides actionable insights for sales, marketing, and operations teams.  
