@@ -4,6 +4,8 @@ An interactive **Business Intelligence dashboard** built using **Power BI** and 
 
 ## Dataset used
 -<a href="https://github.com/akhilm-ds/Data-Analysis-Dashboard/blob/main/Store%2BData.xlsx">Dataset<a/>
+## View Dashboard
+-<a href="https://github.com/akhilm-ds/Data-Analysis-Dashboard/blob/main/Sales_Dashboard.pbix">Dashboard<a/>
 
 ## 🔍 Key Features
 
@@ -32,3 +34,15 @@ An interactive **Business Intelligence dashboard** built using **Power BI** and 
 - **Performance Tracking**: Evaluate product and order performance to identify improvement areas.  
 - **Targeted Marketing**: Focus on high-performing cities and customer segments.  
 - **User-Friendly**: Designed with interactive visuals and slicers for dynamic exploration.
+
+## 🚀 Getting Started
+
+1.	Clone the repository or download the .pbix file.
+2.	Open the project in Power BI Desktop.
+3.	Refresh or connect your data if needed.
+4.	Explore the dashboard using filters and slicers.
+
+## 🎯 Conclusion
+This Power BI Sales Dashboard demonstrates how combining **Power BI's** robust data modeling and visualization capabilities with **DAX** formulas can deliver deep business insights. By enabling multi-dimensional analysis of sales, profits, discounts, and customer behavior, this project helps stakeholders make informed decisions, identify growth opportunities, and optimize marketing strategies. The interactive nature of the dashboard empowers users to explore data dynamically, making it a valuable tool for continuous performance monitoring and strategic planning.
+
+
